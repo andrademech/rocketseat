@@ -1,5 +1,7 @@
 # Anotações de aula
 
+- [X] [Trilha Fundamentar](https://github.com/andrademech/rocketseat/tree/main/Fundamentar)
+
 # Aula 01
 
 # Box Model
@@ -84,4 +86,12 @@ div {
 
 *Cuidado com o margin collapsin (top se junta ao bottom)*
 
+```css
+div {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
 
+    margin: 8px 0; /*margin padrão em 8px*/
+}
+```

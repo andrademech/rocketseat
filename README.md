@@ -8,7 +8,7 @@ Este repositório foi criado para estudo das trilhas *Fundamentar* e *Especializ
    	- [X] [Guia estelar de CSS](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/2-guia-estelar-de-CSS)
    	- [X] [Nem tudo são pixels](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/3-nem-tudo-sao-pixels)
    	- [X] [Uma caixa dentro da outra](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/4-uma-caixa-dentro-da-outra)
-    	- [X] [Agora sim, cores](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/5-agora-sim-cores)
+	- [X] [Agora sim, cores](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/5-agora-sim-cores)
 	- [X] [Posso ver e ouvir o HTML](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/6-posso-ver-e-ouvir-o-HTML)
 	- [X] [Posicionando foguetes](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/7-posicionando-foguetes)
 	- [X] [App bonito, até nos textos](https://github.com/andrademech/rocketseat/tree/main/Fundamentar/8-app-bonito-ate-nos-textos)
