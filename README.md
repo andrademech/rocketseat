@@ -2,7 +2,7 @@ Este repositório foi criado para estudo das trilhas 'Fundamentar' e 'Especializ
 
 
 
-- [ ] Trilha Fundamentar
+- [X] Trilha Fundamentar
         - [X] [Guia Estelar de HTML](url);
         - [X] [Guia estelar de CSS](url);
         - [X] [Nem tudo são pixels](url);
