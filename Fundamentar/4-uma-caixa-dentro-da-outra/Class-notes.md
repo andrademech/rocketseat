@@ -95,3 +95,33 @@ div {
     margin: 8px 0; /*margin padrão em 8px*/
 }
 ```
+*quando o elemento está ao lado do outro(display:inline), as margin se somam*
+
+*quando o elemento está ao abaixo do outro (display:block), as margin não se somam*
+
+----------------------------------------------------------------
+
+# Aula 05
+
+## padding
+
+Padding vem do Inglês => preenchimento
+
+Preenchimento interno da caixa
+
+- padding-top | padding-right | padding-bottom | padding-left
+- values: `<length>` | `<percentage>`
+
+```css
+div {
+    /* shorthand */
+    padding: 12px 16px 10px 4px; /*top, right, bottom e left*/
+    padding: 12px 16px 0; /*top, right + left e bottom*/
+    padding: 8px 16px; /* top + bottom e  right + left*/
+    padding: 8px; /*todos os lados*/
+}
+```
+*Padding poderá causar diferença na largura de um elemento*
+
+----------------------------------------------------------------
+
