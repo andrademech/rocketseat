@@ -28,3 +28,11 @@ Este repositório foi criado para estudo das trilhas *Fundamentar* e *Especializ
 	- [X] [Guia estelar de GIT](https:/github.com/andrademech/rocketseat/tree/main/Fundamentar/22-guia-estelar-de-GIT)
 	- [X] [Guia estelar de GitHub](https:/github.com/andrademech/rocketseat/tree/main/Fundamentar/23-guia-estelar-de-GITHub)
 	- [X] [Guia estelar de HTTP](https:/github.com/andrademech/rocketseat/tree/main/Fundamentar/24-guia-estelar-de-HTTP)
+- [X] [Trilha Especializar](https:/github.com/andrademech/rocketseat/tree/main/Especializar)
+    - [X] [Javascript Assíncrono e Promisses](https:/github.com/andrademech/rocketseat/tree/main/Especializar/1-javascript-assincrono-e-promisses)
+    - [X] [Trabalhando com APIs](https:/github.com/andrademech/rocketseat/tree/main/Especializar/2-trabalhando-com-APIs)
+    - [X] [Fundamentos do ReactJS](https:/github.com/andrademech/rocketseat/tree/main/Especializar/3-fundamentos-do-React-JS)
+    - [X] [Fundamentos do Typescript](https:/github.com/andrademech/rocketseat/tree/main/Especializar/4-fundamentos-do-Typescript)
+    - [X] [GitHub para times](https:/github.com/andrademech/rocketseat/tree/main/Especializar/5-github-para-times)
+
+*Repositório em construção.*
