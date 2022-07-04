@@ -1,6 +1,6 @@
 # Anotações de aula
 
-- [X] [Trilha Fundamentar](https://github.com/andrademech/rocketseat/tree/main/Fundamentar)
+-  [Trilha Fundamentar](https://github.com/andrademech/rocketseat/tree/main/Fundamentar)
 
 # Aula 01
 
@@ -30,7 +30,7 @@ Essa caixa possui propriedades de uma caixa (2D)
 
 Como será calculado o tamanho total da caixa?
 
-- content-box|border-box
+- content-box | border-box
 
 ```css
 div {
@@ -50,7 +50,7 @@ div {
 |--------------------------------|--------------------------------|
 | Ocupa toda a linha, colocando  | Elemento ao lado do outro      |
 | o próximo elemento abaixo desse|                                |
-|--------------------------------|--------------------------------|
+|                                |                                |
 | width e height são respeitados | width e height não funcionam   |
 |--------------------------------|--------------------------------|
 | padding, margin, border irão   | Somente valores horizontais de |
@@ -150,10 +150,10 @@ div {
     /* style | color */
     border: outset #f33;
 
-
     /* width | style | color */
     border: medium dashed green
 }
 ```
 
 ### E outline?
+
