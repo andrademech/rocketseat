@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+header {
+    /* border: 7px dashed red;
+    height: 200px;
+    background-color: rgb(155,100,50);
+    background-image: url('https://source.unsplash.com/random');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: padding-box; /*content-box | border-box*/
+    /*background-clip: content-box;*/
+}
+
+main {
+    color: white;
+    padding: 8px;
+
+    background-color: rgb(55,100,50);
+    background-image: url('https://source.unsplash.com/random');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: padding-box; /*content-box | border-box*/
+    background-clip: content-box;
+    background-attachment: fixed;
+
+    background: rgb(55,100,50) url('https://source.unsplash.com/random') no-repeat right top/ 50px border-box content-box fixed ;
+    
+    background: radial-gradient(red, yellow, green);
+}
