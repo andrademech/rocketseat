@@ -157,3 +157,8 @@ div {
 
 ### E outline?
 
+O outline difere em 4 sentidos:
+- Não modifica o tamanho da caixa, pois não é parte do Box Model
+- Poderá ser diferente de retangular
+- Não permite ajuste individual
+- Mais usado pelo user agente para acessibilidade
