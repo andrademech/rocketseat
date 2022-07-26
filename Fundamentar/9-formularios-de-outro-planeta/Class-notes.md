@@ -111,7 +111,7 @@ Atributos básicos
 
 # Aula 02
 
-## Input
+## Tipos de Input
 
 -Input
     - Um dos mais usados em formulários
@@ -247,3 +247,107 @@ Atributos básicos
         - o <*datalist*> irá conter uma lista de valores pré definidos a fim de sugerir ao usuário, quais valores estão disponíveis
             - os valores do <*datalist*> que não forem compatíveis com o campo, não serão apresentados como sugestão
  
+## Checkbox
+
+- Checkbox
+    - Caixas que podem ser marcadas
+    - Selecionar um valor para ser enviado
+    - Se não selecionado, nada será enviado
+- Atributos
+    - globais
+    - value
+        - valor que aquele campo contém
+        - se não estiver presente, o padrão é 'on'
+    - checked
+        - para deixar o campo marcado por padrão
+
+## Hidden
+
+- Hidden
+    - invisível ao usuário
+    - será enviado com o formulário
+    - não receberá foco
+    - leitores de tela não percebem esse campo
+
+## Radio
+
+- Radio
+    - Projetado para selecionar uma única opção de um grpo de opções
+- Atributos
+    - checked
+        - indica que o campo foi marcado
+    - value
+        - valor que aquele campo contém
+
+## Textarea
+
+- Textarea
+    - mais de uma linha
+    - útil para textos grandes
+- Atributos
+    - id
+    - name
+    - rows e cols
+    - maxlength e minlength
+    - wrap
+    - outros comuns aos inputs
+        autocomplete, autofocus, disabled, placeholder, readonly, form, required
+
+## Select
+
+- Select
+    - Controle que fornece um menu de opções
+    - Contém as opções a serem selecionadas
+    - Atributos necessários
+        - value
+    - Atributos únicos
+        - multiple
+            - habilita múltiplas opções
+        - size
+            - quando opções visíveis
+
+## Optgroup
+
+- Optgroup
+    - Serve para agrupar opções	num formulário de seleção
+
+## Search
+
+- Search
+    - Para campos de busca
+    - É igual ao campo do tipo 'text' mas poderá ser um pouco diferente dependendo do user agent
+- Atributos
+    - list / datalist
+    - pattern
+    - aria-label (usado para acessibilidade)
+
+## Number
+
+- Number
+    - Entrada de números
+- Atributos
+    - min/max
+    - step (passos)
+
+## Range
+
+- Range
+    - Controle para selecionar um valor numérico
+    - Slider ou dial control
+- Atributos
+    - min/ max
+    - step (passos)
+
+## Data e hora
+
+- Data e hora
+    - Input usado para incluir data e hora
+
+# Aula 03
+
+## Desenhando
+
+- Dicas:
+    - simples e focado
+    - somente dados necessários
+    - verifique o que te agrada
