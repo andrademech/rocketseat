@@ -3,7 +3,7 @@
 }
 
 header {
-    /* border: 7px dashed red;
+    border: 7px dashed red;
     height: 200px;
     background-color: rgb(155,100,50);
     background-image: url('https://source.unsplash.com/random');
@@ -11,10 +11,10 @@ header {
     background-position: center;
     background-size: contain;
     background-origin: padding-box; /*content-box | border-box*/
-    /*background-clip: content-box;*/
+    /*background-clip: content-box;
 }
 
-main {
+ main {
     color: white;
     padding: 8px;
 
